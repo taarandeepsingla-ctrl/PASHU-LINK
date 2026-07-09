@@ -1,0 +1,6 @@
+{
+  "name": "PashuLink",
+  "description": "Premium livestock marketplace for Punjab & India. Features dynamic animal listings, four custom user dashboards (Buyer, Seller, Vet, Admin), Google Maps livestock locator, veterinary/transport bookings, and advanced Gemini AI assistants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
